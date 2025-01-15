@@ -1,0 +1,4 @@
+*.log
+notebooks/*.csv
+notebooks/*.zip
+.env
