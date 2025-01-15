@@ -1,5 +1,5 @@
 .vscode
 *.log
-notebooks/*.csv
+notebooks/fraudulent-transactions-data/*.csv
 notebooks/*.zip
 .env
